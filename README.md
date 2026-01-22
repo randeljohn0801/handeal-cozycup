@@ -41,11 +41,13 @@ Welcome to **Handeal Cozy Cafe** order, relax, and enjoy your coffee.
 When not coding, Handeal enjoys exploring coffee shops and sharing the joy of a perfect cup.
 
 
-# Socials
-**Randel John Velete**
+# Connect with Us
 
-![Socials](https://avatars.githubusercontent.com/u/207505731?v=4)
+We’d love to hear from you! Reach out via GitHub or Facebook.
 
-**Hans Magalaman** 
-
-![Socials](https://avatars.githubusercontent.com/u/175933596?v=4)
+| Randel John L. Velete | Hans F. Magalaman |
+| :---: | :---: |
+| <a href="https://github.com/randeljohn0801"><img src="img/randel.png" width="150" style="border-radius:50%"></a> | <a href="https://github.com/Hansyel-droid"><img src="img/Hans.png" width="150" style="border-radius:50%"></a> |
+| 📧 [rjlopezvelete@gmail.com](mailto:rjlopezvelete@gmail.com) | 📧 [hansmagalaman123@gmail.com](mailto:hansmagalaman123@gmail.com) |
+| [![FB](img/Facebook_white.png)](https://www.facebook.com/rundealll/) | [![FB](img/Facebook_white.png)](https://www.facebook.com/hans.magalaman) |
+| [Visit Facebook Profile](https://www.facebook.com/rundealll/) | [Visit Facebook Profile](https://www.facebook.com/hans.magalaman) |
