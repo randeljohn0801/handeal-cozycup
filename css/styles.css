@@ -62,7 +62,7 @@ nav a:hover {
         rgba(0, 0, 0, 0.4),
         rgba(0, 0, 0, 0.4)
     ),
-    url("hero-bg.jpg") center/cover no-repeat;
+    url("../img/hero-bg.jpg") center/cover no-repeat;
     color: var(--white);
 }
 
@@ -99,6 +99,36 @@ nav a:hover {
 .menu h2 {
     font-size: 2.2rem;
     margin-bottom: 20px;
+}
+
+.menu-items {
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+    flex-wrap: wrap;
+    margin-top: 30px;
+}
+
+.menu-item {
+    text-align: center;
+}
+
+.menu-item img {
+    width: 200px;
+    height: 200px;
+    object-fit: cover;
+    border-radius: 15px;
+    transition: transform 0.3s;
+}
+
+.menu-item img:hover {
+    transform: scale(1.05);
+}
+
+.menu-item p {
+    margin-top: 10px;
+    font-weight: 600;
+    font-size: 1.1rem;
 }
 
 .about {

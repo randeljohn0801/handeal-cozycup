@@ -1,6 +1,7 @@
 # Project Description
 Welcome to **Handeal Cozy Cafe** order, relax, and enjoy your coffee.
 
+
 # Feature
 **Customers can:**
 - Browse the menu online
@@ -9,3 +10,26 @@ Welcome to **Handeal Cozy Cafe** order, relax, and enjoy your coffee.
 - Pick up without waiting in line
 
 
+# Screen Capture
+
+### Logo
+![CozyCup Café Logo](img/logo.png)
+*CozyCup Café logo*
+
+---
+
+### Menu
+![Menu](img/Menu.png)
+*Our café menu*
+
+---
+
+### About Us
+![About Us](img/About%20us.png)
+*About CozyCup Café*
+
+---
+
+### Contact
+![Contact](img/Contact.png)
+*Contact information*
