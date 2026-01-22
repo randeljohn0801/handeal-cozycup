@@ -41,3 +41,11 @@ Welcome to **Handeal Cozy Cafe** order, relax, and enjoy your coffee.
 When not coding, Handeal enjoys exploring coffee shops and sharing the joy of a perfect cup.
 
 
+# Socials
+**Randel John Velete**
+
+![Socials](https://avatars.githubusercontent.com/u/207505731?v=4)
+
+**Hans Magalaman** 
+
+![Socials](https://avatars.githubusercontent.com/u/175933596?v=4)
