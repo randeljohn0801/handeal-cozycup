@@ -33,3 +33,11 @@ Welcome to **Handeal Cozy Cafe** order, relax, and enjoy your coffee.
 ### Contact
 ![Contact](img/Contact.png)
 *Contact information*
+
+# About the Authors
+
+**Handeal**, the creator of CozyCup Café, loves coffee and web design. CozyCup brings cozy vibes and delicious drinks like Matcha, Cappuccino, and Mocha to everyone.  
+
+When not coding, Handeal enjoys exploring coffee shops and sharing the joy of a perfect cup.
+
+
